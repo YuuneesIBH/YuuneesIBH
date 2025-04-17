@@ -1,9 +1,2 @@
-- 👋 Hi, I’m @YuuneesIBH
-- 👀 I’m interested in Javascript, HTML, CSS ... everything!
-- 🌱 I’m currently learning Javascript
-- 📫 How to reach me? Discord --> Yuunees#0115
- 
-<!---
-YuuneesIBH/YuuneesIBH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Over Mij
+Ik ben Younes Elazzouzi, student Toegepaste Informatica aan de Karel de Grote Hogeschool in Antwerpen. Momenteel werk ik bij Gosselin Group, waar ik mijn vaardigheden in IT en logistiek verder ontwikkel. Mijn interesses liggen bij systeemautomatisering, PowerShell-scripting en het optimaliseren van provisioningprocessen voor Windows-omgevingen. Ik streef ernaar om technologieën efficiënt in te zetten binnen enterprise-omgevingen
