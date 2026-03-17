@@ -23,7 +23,7 @@ class Younes:
         self.education = "Applied Computer Science @ Karel de Grote"
         self.graduation = "June 2026"
         self.passions = ["Networking", "Automation", "Cloud", "Security"]
-        self.current_role = "Jr. Data Analyst @ Gosselin Group"
+        self.current_role = "Freelance IT Consultant"
         
     def get_philosophy(self):
         return "I thrive on learning new tech and turning ideas into working solutions."
