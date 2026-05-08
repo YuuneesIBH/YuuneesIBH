@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Younes El Azzouzi
+# Hey, I'm Younes
 
 ### Freelance IT Expert | Platform Engineer | Automation Specialist
 
