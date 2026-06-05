@@ -24,9 +24,7 @@ class Younes:
         self.graduation = "September 2026"
         self.passions = ["Platform Engineering", "AI Automation", "Cloud", "Security"]
         self.current_roles = [
-            "Freelance IT Expert",
-            "Platform Engineer @ Axxes IT Consultancy",
-            "IT Consultant AI Automation @ BEEGO"
+            "Freelance IT Expert"
         ]
         
     def get_philosophy(self):
@@ -63,7 +61,7 @@ me.say_hi()
 
 ## Professional Experience
 
-### Axxes IT Consultancy | *Platform Engineer* | Mar 2026 - Present
+### Axxes IT Consultancy | *Platform Engineer* | Mar 2026 - June 2026
 - Designing and implementing an Internal Developer Platform (IDP) based on platform engineering principles
 - Building modular Azure infrastructure with Terraform for dev and production environments
 - **Tech:** Terraform, Kubernetes, Azure, HCL
