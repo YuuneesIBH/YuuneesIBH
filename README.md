@@ -24,7 +24,7 @@ class Younes:
         self.graduation = "September 2026"
         self.passions = ["Platform Engineering", "AI Automation", "Cloud", "Security"]
         self.current_roles = [
-            "Freelance IT Expert"
+            "DevOps Engineer @Peliqan.io"
         ]
         
     def get_philosophy(self):
