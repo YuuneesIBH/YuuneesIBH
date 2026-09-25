@@ -69,12 +69,12 @@ me.say_hi()
 - Keeping the platform compliant with ISO 27001 and SOC 2 Type II, and optimizing resource usage
 - Supporting customers with on-premise deployments of the Peliqan agent and setting up VPN tunnels
 - Second-line support on databases, data warehouses and network connectivity
-- **Tech:** AWS (EKS), GCP, Terraform, Kubernetes, Docker, Grafana, Aikido, CI/CD
+- **Tech:** AWS (EKS), GCP, Terraform, Kubernetes, Docker, Grafana, CI/CD
 
 ### Yields | *Product Support Engineer* | Jun 2026 - Oct 2026
 - Wrote AI-driven notebooks and adapted existing notebooks to new customer needs
 - Supported the product team by handling and following up on customer requests
-- Built an automated tool that scrapes the full platform from A to Z
+- Built an automation tool to extract and export platform data end-to-end
 - Investigated and resolved product issues together with the engineering team
 - Helped with testing, documentation and product validation in an Agile team
 - **Tech:** Python, Jupyter Notebooks, AI/LLMs, web scraping
@@ -93,7 +93,7 @@ me.say_hi()
 
 ### Gosselin Group | *Support Engineer* | Jul 2023 - Jan 2026
 - Provided IT support in an enterprise environment while driving automation initiatives
-- Built Python automation pipelines for shipment detection & locking and automated client reporting
+- Built Python automation for shipment processing and client reporting
 - Automated device provisioning and onboarding with Bash and PowerShell
 - **Tech:** Python, PowerShell, Bash
 
@@ -110,10 +110,18 @@ me.say_hi()
 - Graduated in 2026, with a focus on cloud, DevOps and platform engineering
 - Internship: Platform Engineering at Axxes IT Consultancy
 
-### KNMC Joma, Merksem | *Secondary Education in IT Management* | 2020 - 2022
-- Secondary school diploma in IT Management (Informaticabeheer)
+### KNMC Joma, Merksem | *High School Diploma in IT Management* | 2020 - 2022
+- Specialization in IT Management (Informaticabeheer)
 
-**Certifications:** AWS Academy Cloud Architecting · AWS Academy Cloud Security Foundations · AWS Academy Cloud Operations · IBM Z Xplore – Concepts · Model Context Protocol: Advanced Topics
+---
+
+## Certifications
+
+- AWS Academy Graduate – Cloud Architecting
+- AWS Academy Graduate – Cloud Security Foundations
+- AWS Academy Graduate – Cloud Operations
+- IBM Z Xplore – Concepts
+- Model Context Protocol: Advanced Topics
 
 ---
 
@@ -157,7 +165,7 @@ Multiplayer arcade platform combining retro games, hardware input and sandboxed 
 
 ### Automation & IT Operations
 - **Windows auto-provisioning:** PowerShell that skips OOBE, sets up language, network, drivers and tools, and registers devices in Azure AD
-- **Shipment locking:** Python browser automation that detects and locks incoming shipments and notifies the coordinator in real time
+- **Shipment processing:** Python browser automation that handles incoming shipments and sends real-time notifications
 - **M365 & SharePoint recovery roadmap:** break-glass accounts, Conditional Access, MFA recovery and security hardening after a tenant lockout
 - **FSLogix Profile Auditor:** PowerShell script that finds stale profiles by comparing them against Active Directory
 - **n8n workflows:** AI-powered email triage, website uptime monitoring and Telegram alerts
