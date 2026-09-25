@@ -51,7 +51,7 @@ me.say_hi()
 <img src="icons/devops.svg" alt="Docker, Kubernetes, Terraform, Azure, AWS, GCP, GitLab, Linux, Bash, PowerShell, Raspberry Pi, Argo CD, Traefik, Entra ID" />
 
 ### Automation & AI
-<img src="icons/automation.svg" alt="n8n, Power Automate, Copilot Studio, Microsoft 365, Ollama" />
+<img src="icons/automation.svg" alt="n8n, Power Automate, Copilot Studio, Microsoft 365, ChatGPT, Claude, Ollama" />
 
 ### Databases & Tools
 <img src="icons/databases.svg" alt="PostgreSQL, MySQL, MongoDB, Git, GitHub, VS Code, Visual Studio" />

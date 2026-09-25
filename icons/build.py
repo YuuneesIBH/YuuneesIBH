@@ -21,13 +21,15 @@ CUSTOM = {
     "copilot": "selfhst:microsoft-copilot",
     "m365": "selfhst:microsoft-365",
     "ollama": "selfhst:ollama-light",
+    "chatgpt": "selfhst:chatgpt-light",
+    "claude": "devicon:claude",
 }
 
 ROWS = {
     "languages": "python java cs cpp c js ts swift lua html css sql",
     "frameworks": "react nextjs dotnet flask fastapi nodejs tailwind bootstrap",
     "devops": "docker kubernetes terraform azure aws gcp gitlab linux bash powershell raspberrypi argocd traefik entra",
-    "automation": "n8n powerautomate copilot m365 ollama",
+    "automation": "n8n powerautomate copilot m365 chatgpt claude ollama",
     "databases": "postgres mysql mongodb git github vscode visualstudio",
 }
 
