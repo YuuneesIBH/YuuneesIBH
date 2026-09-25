@@ -121,46 +121,55 @@ me.say_hi()
 
 ## Featured Projects
 
-### Internship KdG — Platform Engineering (Axxes)
-Terraform infrastructure for the KdG internship platform, providing a modular Azure foundation for dev and production environments. Built during a Platform Engineering internship at Axxes.
-- **Tech:** Terraform, HCL, Azure
+### Internal Developer Platform on Azure — Platform Engineering Internship (Axxes)
+A complete Internal Developer Platform built from scratch, spread over a set of repositories that each own one layer:
+- **Infrastructure:** modular Terraform for AKS, ACR, networking, tagging and remote state, for dev and future production
+- **GitOps:** Argo CD manages cluster config, namespaces and RBAC bindings declaratively from Git
+- **Golden path:** a service template with Deployment, HPA, Traefik Ingress, External Secrets and Kustomize overlays, plus scripts to generate and validate new services
+- **Developer experience:** onboarding docs, runbooks and research on tool choices, security and monitoring
+- **Tech:** Terraform, Azure AKS, Argo CD, Kubernetes, Traefik, External Secrets, Kustomize, Entra ID
 - *Private*
 
-### n8n Autosell Bot
-Automated XRP profit-taking system built with n8n. Continuously monitors XRP portfolio value in EUR and automatically executes market sell orders when thresholds are hit.
-- **Tech:** n8n, TypeScript
+### ShiftMark — Workforce Planning Platform
+Shift planning and GPS-verified timesheets for cleaning companies. A planner schedules a shift, the cleaner checks in on site, and the distance to the location decides whether the hours count.
+- Manager dashboard, cross-platform mobile app for employees (shifts, check-in/out, breaks, checklists, leave requests) and a product website
+- Available in Dutch, English and French
+- **Tech:** TypeScript, React, Expo / React Native
+- *Private*
 
-### Site Snapshot
-Command-line tool that crawls an entire website and captures full-page screenshots of every page. Screenshots are automatically organized by domain and path.
-- **Tech:** Python
-- [View Project](https://github.com/YuuneesIBH/site-snapshot)
+### AI Fitness App for iOS
+A native iOS fitness companion that brings training plans, workout logging, nutrition tracking (search, barcode and photo) and progress insights together, guided by a context-aware AI coach.
+- **Tech:** Swift, AI
+- *In development*
 
-### Crypto Breakout Alert
-FastAPI app for detecting crypto breakouts (BTC, ETH, SHIB, XRP, BONK, PEPE) via the CoinMarketCap API, with scheduled checks and Telegram alerts.
-- **Tech:** Python, FastAPI
+### Cloud-Native DevOps on Google Cloud — Integration Project 2
+Full DevOps setup for a multi-platform board game system with AI services: Terraform on GKE, Kubernetes manifests, GitLab CI/CD pipelines, Keycloak authentication and centralized logging with the ELK stack.
+- **Tech:** GCP, GKE, Terraform, Kubernetes, Docker, GitLab CI/CD, Keycloak, ELK
+- [Infrastructure & CI/CD](https://github.com/YuuneesIBH/KdG-Integrationproject2_Part2_DevOps_GCP) · [Platform Deployment](https://github.com/YuuneesIBH/KdG-IntegrationProject2-Platform-Deployment)
 
-### AI-Powered Arcade Platform
-Full-stack multiplayer gaming platform with real-time AI integration via GCP and Ollama, hardware interaction, and integrated security challenges.
-- **Tech:** TypeScript, Google Cloud, Ollama, WebSockets, Lua
-- [View Project](https://github.com/YuuneesIBH/KdG-TheLab-Graduation-AI-GCP-Arcade-HackingPlatform)
+### IBM Z Web Control Center — IBM Z Grand Challenge
+A browser-based control center for the IBM Z mainframe: explore datasets, edit members, run REXX/Python scripts and submit JCL straight from USS through Zowe CLI.
+- **Tech:** JavaScript, Zowe CLI, IBM z/OS
+- [View Project](https://github.com/YuuneesIBH/KdG-IBM-Mainframe-WebControlCenter)
 
-### FocusFlow App
-Cross-platform Pomodoro timer with study streaks, achievement tracking, and productivity visualizations with smooth animations.
-- **Tech:** TypeScript
+### AI-Powered Arcade Platform — Graduation Project
+Multiplayer arcade platform combining retro games, hardware input and sandboxed cybersecurity challenges, with real-time AI via GCP and Ollama.
+- **Tech:** TypeScript, Electron, React, Lua, Google Cloud, Ollama, WebSockets
+- [View Project](https://github.com/YuuneesIBH/KdG-TheLab-Graduation-AI-GCP-Arcade-HackingPlatform) · [Project Site](https://github.com/YuuneesIBH/KdG-TheLab-Graduation-Projectsite)
 
-### McDonald's Self-Service Kiosk
-Full-stack replica with real-time ordering, multiplayer gaming, and admin management.
-- **Tech:** Flask, WebSockets, PostgreSQL
+### Automation & IT Operations
+- **Windows auto-provisioning:** PowerShell that skips OOBE, sets up language, network, drivers and tools, and registers devices in Azure AD
+- **Shipment locking:** Python browser automation that detects and locks incoming shipments and notifies the coordinator in real time
+- **M365 & SharePoint recovery roadmap:** break-glass accounts, Conditional Access, MFA recovery and security hardening after a tenant lockout
+- **FSLogix Profile Auditor:** PowerShell script that finds stale profiles by comparing them against Active Directory
+- **n8n workflows:** AI-powered email triage, website uptime monitoring and Telegram alerts
+- **Tech:** PowerShell, Python, Selenium, Microsoft 365, Entra ID, n8n
 
-### DevOps & Infrastructure
-- Multi-platform deployment with GKE, Terraform, K8s (GCP)
-- CI/CD pipelines with GitLab
-- Raspberry Pi kiosk deployment with AppArmor & UFW hardening
-
-### Lumera Shopify Theme
-High-performance, modular Shopify 2.0 theme built for clarity and speed, with accessibility-first design.
-- **Tech:** Liquid, Shopify 2.0
-- [View Project](https://github.com/YuuneesIBH/lumera-shopify-theme)
+### More Projects
+- **[Raspberry Pi Kiosk](https://github.com/YuuneesIBH/KdG-Integrationproject2_RaspberryPI_Deployment):** auto-booting Chromium kiosk, packaged as a Debian package and hardened with AppArmor, UFW and watchdogs
+- **[Site Snapshot](https://github.com/YuuneesIBH/site-snapshot):** CLI that crawls a website and captures a full-page screenshot of every page (Python)
+- **[Lumera Shopify Theme](https://github.com/YuuneesIBH/lumera-shopify-theme):** fast, accessibility-first Shopify 2.0 theme (Liquid)
+- **[Self-Service Kiosk](https://github.com/YuuneesIBH/KdG-Integrationproject2_SourceCode):** real-time ordering kiosk with admin management (Flask, WebSockets, PostgreSQL)
 
 ---
 
