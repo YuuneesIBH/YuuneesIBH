@@ -42,30 +42,19 @@ me.say_hi()
 <div align="center">
 
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=python,java,cs,cpp,c,js,ts,swift,lua,html,css" />
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="icons/languages.svg" alt="Python, Java, C#, C++, C, JavaScript, TypeScript, Swift, Lua, HTML, CSS, SQL" />
 
 ### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nextjs,dotnet,flask,fastapi,nodejs,tailwind,bootstrap" />
+<img src="icons/frameworks.svg" alt="React, Next.js, .NET, Flask, FastAPI, Node.js, Tailwind, Bootstrap" />
 
 ### DevOps, Cloud & Platform Engineering
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,azure,aws,gcp,gitlab,linux,bash,powershell,raspberrypi" />
-
-![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
-![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logoColor=white)
-![GitOps](https://img.shields.io/badge/GitOps-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="icons/devops.svg" alt="Docker, Kubernetes, Terraform, Azure, AWS, GCP, GitLab, Linux, Bash, PowerShell, Raspberry Pi, Argo CD, Traefik, Entra ID" />
 
 ### Automation & AI
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logoColor=white)
-![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-5C2D91?style=for-the-badge&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+<img src="icons/automation.svg" alt="n8n, Power Automate, Copilot Studio, Microsoft 365, Ollama" />
 
 ### Databases & Tools
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,github,vscode,visualstudio" />
+<img src="icons/databases.svg" alt="PostgreSQL, MySQL, MongoDB, Git, GitHub, VS Code, Visual Studio" />
 
 </div>
 
