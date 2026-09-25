@@ -110,6 +110,9 @@ me.say_hi()
 - Graduated in 2026, with a focus on cloud, DevOps and platform engineering
 - Internship: Platform Engineering at Axxes IT Consultancy
 
+### KNMC Joma, Merksem | *Secondary Education in IT Management* | 2020 - 2022
+- Secondary school diploma in IT Management (Informaticabeheer)
+
 **Certifications:** AWS Academy Cloud Architecting · AWS Academy Cloud Security Foundations · AWS Academy Cloud Operations · IBM Z Xplore – Concepts · Model Context Protocol: Advanced Topics
 
 ---
