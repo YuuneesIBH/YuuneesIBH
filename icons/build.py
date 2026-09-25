@@ -28,7 +28,7 @@ CUSTOM = {
 ROWS = {
     "languages": "python java cs cpp c js ts swift lua html css sql",
     "frameworks": "react nextjs dotnet flask fastapi nodejs tailwind bootstrap",
-    "devops": "docker kubernetes terraform azure aws gcp gitlab linux bash powershell raspberrypi argocd traefik entra",
+    "devops": "docker kubernetes terraform azure aws gcp gitlab linux bash powershell raspberrypi argocd traefik entra grafana",
     "automation": "n8n powerautomate copilot m365 chatgpt claude ollama",
     "databases": "postgres mysql mongodb git github vscode visualstudio",
 }

@@ -48,7 +48,7 @@ me.say_hi()
 <img src="icons/frameworks.svg" alt="React, Next.js, .NET, Flask, FastAPI, Node.js, Tailwind, Bootstrap" />
 
 ### DevOps, Cloud & Platform Engineering
-<img src="icons/devops.svg" alt="Docker, Kubernetes, Terraform, Azure, AWS, GCP, GitLab, Linux, Bash, PowerShell, Raspberry Pi, Argo CD, Traefik, Entra ID" />
+<img src="icons/devops.svg" alt="Docker, Kubernetes, Terraform, Azure, AWS, GCP, GitLab, Linux, Bash, PowerShell, Raspberry Pi, Argo CD, Traefik, Entra ID, Grafana" />
 
 ### Automation & AI
 <img src="icons/automation.svg" alt="n8n, Power Automate, Copilot Studio, Microsoft 365, ChatGPT, Claude, Ollama" />
@@ -63,7 +63,13 @@ me.say_hi()
 ## Professional Experience
 
 ### Peliqan.io | *DevOps Engineer* | Oct 2026 - Present
-- Working on the cloud infrastructure, deployments and automation behind the Peliqan data platform
+- Managing the cloud infrastructure of the Peliqan data platform on AWS and GCP with Terraform, Kubernetes (EKS) and Docker
+- Building automation and CI/CD pipelines, and supporting deployments
+- Setting up observability and working on scalability, hardening and security of the platform
+- Keeping the platform compliant with ISO 27001 and SOC 2 Type II, and optimizing resource usage
+- Supporting customers with on-premise deployments of the Peliqan agent and setting up VPN tunnels
+- Second-line support on databases, data warehouses and network connectivity
+- **Tech:** AWS (EKS), GCP, Terraform, Kubernetes, Docker, Grafana, Aikido, CI/CD
 
 ### Yields | *Product Support Engineer* | Jun 2026 - Oct 2026
 - Wrote AI-driven notebooks and adapted existing notebooks to new customer needs
@@ -119,7 +125,7 @@ A complete Internal Developer Platform built from scratch, spread over a set of 
 - **Tech:** Terraform, Azure AKS, Argo CD, Kubernetes, Traefik, External Secrets, Kustomize, Entra ID
 - *Private*
 
-### ShiftMark — Workforce Planning Platform
+### Workforce Planning & Time Tracking Platform
 Shift planning and GPS-verified timesheets for cleaning companies. A planner schedules a shift, the cleaner checks in on site, and the distance to the location decides whether the hours count.
 - Manager dashboard, cross-platform mobile app for employees (shifts, check-in/out, breaks, checklists, leave requests) and a product website
 - Available in Dutch, English and French
